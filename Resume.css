@@ -1,0 +1,59 @@
+#header {
+  text-align: center;
+  background-color: #333;
+  color:#ffffff;
+  padding: 20px;
+}
+
+/* Style the heading and image */
+h2 {
+  font-size: 36px;
+
+}
+
+img {
+  border: 5px solid white;
+  box-shadow: 0px 0px 20px rgba(0,0,0,0.3);
+}
+
+/* Style the sections */
+.head {
+  font-size: 24px;
+  color: #f8961e; /* Add a color to the section heading */
+}
+
+ul {
+  margin-top: 20px;
+  list-style-type:circle;
+}
+
+li {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+
+table {
+  border-collapse: collapse;
+  background-color: #f2f2f2;
+  width: 50%;
+  margin: 20px ;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid black;
+  margin: 20px auto;
+  background-color: #f2f2f2;
+   border: 1px solid #f94144;
+}
+
+#footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-top: 5px solid #f2f2f2;
+}
